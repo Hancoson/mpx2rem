@@ -1,9 +1,9 @@
 # mpx2rem
 A mini `px` to `rem` library.
 
-[![npm](https://img.shields.io/npm/dt/express.svg)](https://www.npmjs.com/package/mpx2rem)
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/Hancoson/mpx2rem)
-[![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg)](https://github.com/Hancoson/mpx2rem)
+[![npm version](https://img.shields.io/npm/v/mpx2rem.svg)](https://www.npmjs.com/package/mpx2rem)
+[![GitHub license](https://img.shields.io/github/license/Hancoson/mpx2rem.svg)](https://github.com/Hancoson/mpx2rem/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/dt/mpx2rem.svg)](https://www.npmjs.com/package/mpx2rem)
 
 
 
