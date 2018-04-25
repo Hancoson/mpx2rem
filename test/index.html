@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>mpx2rem demo</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="format-detection" content="telephone=no,email=no">
+  <script>var mpx2rem = function (e) { var t = e.document.documentElement, n = e.devicePixelRatio, i = null; function o() { var e, i = t.getBoundingClientRect().width; 1 === n && (i = 720), i > 720 && (i = 720), e = i / 7.2, t.style.fontSize = e + "px" } n = n > 2 ? 3 : n > 1 ? 2 : 1, t.setAttribute("data-dpr", n), e.addEventListener("resize", function () { clearTimeout(i), i = setTimeout(o, 200) }, !1), o() }(window);</script>
+  <!-- <script src="./../lib/mpx2rem.min.js"></script> -->
+</head>
+
+<body>
+
+  <div>mpx2rem demo</div>
+
+</body>
+
+</html>

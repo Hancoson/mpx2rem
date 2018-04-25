@@ -1,0 +1,24 @@
+/**
+ * @Author: Guoxing.han 
+ * @Date: 2018-04-25 15:48:09 
+ * @version 0.0.1 
+ */
+
+/**
+* Rem fiducial value（基准值）
+**/
+
+$px: (1/100)+rem;
+div {
+  width: 200*$px;
+  height: 200*$px;
+}
+
+/**
+* Post-Build（编译后）
+**/
+
+div {
+  width: 2rem;
+  height: 2rem;
+}
