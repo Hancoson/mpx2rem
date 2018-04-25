@@ -1,0 +1,9 @@
+{
+  "name": "mpx2rem",
+  "version": "1.0.0",
+  "description": "mini px to rem",
+  "main": "index.js",
+  "repository": "https://github.com/Hancoson/mpx2rem.git",
+  "author": "Hancoson <hancoson@163.com>",
+  "license": "MIT"
+}
