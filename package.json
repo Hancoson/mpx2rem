@@ -1,6 +1,6 @@
 {
   "name": "mpx2rem",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "mini px to rem",
   "main": "index.js",
   "keywords": [

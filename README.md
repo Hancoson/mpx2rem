@@ -53,6 +53,20 @@ div {
   height: 300*$px;
 }
 ```
+
+Compiled into `css`:
+
+```css
+div {
+  width: 1rem;
+  height: 1rem;
+}
+```
+In the end, the `html` is :
+
+![img](http://7xtxh3.com1.z0.glb.clouddn.com/github/WX20180426-091221.png)
+
+
 ## License
 
 MIT
